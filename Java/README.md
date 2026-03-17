@@ -9,6 +9,8 @@
 - [Fundamentals of Java - 5 Notes](../assets/docs/Fundamentals%20of%20Java%20-%205%20Notes.pdf)
 - [Fundamentals of Java - 6 Introduction to Object Oriented Principels Creating Class and Objects Notes](../assets/docs/Fundamentals%20of%20Java%20-%206%20Introduction%20to%20Object%20Oriented%20Principels%20Creating%20Class%20and%20Objects%20Notes.pdf)
 
+## Java Object-Oriented Programming (OOP)
+
 - ![Static Vs Instance Variables](../assets/images/StaticVsInstanceVariables.png)
 - [JVM Memory Areas Notes](../assets/docs/JVM%20MemoryAreas%20Notes.pdf)
 - [Instance Variables and Local, Variables Static Vs Instance Members Notes](../assets/docs/Instance%20Variables%20and%20Local,%20Variables%20Static%20Vs%20Instance%20Members%20(Notes)%20.pdf)
