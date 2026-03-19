@@ -19,3 +19,4 @@
 - [Packages, Access, Final, Overriding, Polymorphism Notes](../assets/docs/Packages,%20Access,%20Final,%20Overriding,%20Polymorphism%20Notes.pdf)
 - [Abstraction & Interface Notes](../assets/docs/Abstraction%20&%20Interface%20Notes.pdf)
 - [Implementing Interface and abstraction Notes](../assets/docs/Implementing%20Interface%20and%20abstraction%20Notes.pdf)
+- [Working with String Object Notes](../assets//docs/Working%20with%20String%20Object%20Notes.pdf)
