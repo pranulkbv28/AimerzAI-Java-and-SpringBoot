@@ -20,3 +20,4 @@
 - [Abstraction & Interface Notes](../assets/docs/Abstraction%20&%20Interface%20Notes.pdf)
 - [Implementing Interface and abstraction Notes](../assets/docs/Implementing%20Interface%20and%20abstraction%20Notes.pdf)
 - [Working with String Object Notes](../assets//docs/Working%20with%20String%20Object%20Notes.pdf)
+- [Handling Exceptions in Java - I Notes](../assets/docs/Handling%20Exceptions%20in%20Java%20-%20I%20Notes.pdf)
