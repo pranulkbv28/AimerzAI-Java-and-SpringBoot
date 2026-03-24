@@ -24,3 +24,4 @@
 - [Handling Exceptions in Java - II Notes](../assets/docs/Handling%20Exceptions%20in%20Java%20-%20II%20Notes.pdf)
 - [Handling Exceptions in Java - III Notes](../assets/docs/Handling%20Exceptions%20in%20Java%20-%20III%20Notes.pdf)
 - [Introduction to Concurrency and Threading Notes](../assets/docs/Introduction%20to%20Concurrency%20and%20Threading%20Notes.pdf)
+- [Thread Management- Runnable Interface and Control Methods Notes](../assets/docs/Thread%20Management-%20Runnable%20Interface%20and%20Control%20Methods%20Notes.pdf)
