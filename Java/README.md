@@ -27,3 +27,4 @@
 - [Thread Management- Runnable Interface and Control Methods Notes](../assets/docs/Thread%20Management-%20Runnable%20Interface%20and%20Control%20Methods%20Notes.pdf)
 - [Thread Addressing and Synchronization Techniques Notes](../assets/docs/Thread%20Addressing%20and%20Synchronization%20Techniques%20Notes.pdf)
 - [Advanced Locking and Synchronization in Concurrency Notes](../assets/docs/Advanced%20Locking%20and%20Synchronization%20in%20Concurrency%20Notes.pdf)
+- [Concurrency in Java- Thread Pools, Executors, Callable & Future Notes](../assets/docs/Concurrency%20in%20Java-%20Thread%20Pools,%20Executors,%20Callable%20&%20Future%20Notes.pdf)
