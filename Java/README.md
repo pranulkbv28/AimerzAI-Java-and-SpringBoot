@@ -23,9 +23,16 @@
 - [Handling Exceptions in Java - I Notes](../assets/docs/Handling%20Exceptions%20in%20Java%20-%20I%20Notes.pdf)
 - [Handling Exceptions in Java - II Notes](../assets/docs/Handling%20Exceptions%20in%20Java%20-%20II%20Notes.pdf)
 - [Handling Exceptions in Java - III Notes](../assets/docs/Handling%20Exceptions%20in%20Java%20-%20III%20Notes.pdf)
+
+## Multithreading in Java
+
 - [Introduction to Concurrency and Threading Notes](../assets/docs/Introduction%20to%20Concurrency%20and%20Threading%20Notes.pdf)
 - [Thread Management- Runnable Interface and Control Methods Notes](../assets/docs/Thread%20Management-%20Runnable%20Interface%20and%20Control%20Methods%20Notes.pdf)
 - [Thread Addressing and Synchronization Techniques Notes](../assets/docs/Thread%20Addressing%20and%20Synchronization%20Techniques%20Notes.pdf)
 - [Advanced Locking and Synchronization in Concurrency Notes](../assets/docs/Advanced%20Locking%20and%20Synchronization%20in%20Concurrency%20Notes.pdf)
 - [Concurrency in Java- Thread Pools, Executors, Callable & Future Notes](../assets/docs/Concurrency%20in%20Java-%20Thread%20Pools,%20Executors,%20Callable%20&%20Future%20Notes.pdf)
 - [Deadlock Scenarios & Daemon Threads Notes](../assets/docs/Deadlock%20Scenarios%20&%20Daemon%20Threads%20Notes.pdf)
+
+## Wrapper Classes & Generics
+
+- [Wrapper Classes & Generics Notes](../assets/docs/Wrapper%20Classes%20&%20Generics%20Notes.pdf)
