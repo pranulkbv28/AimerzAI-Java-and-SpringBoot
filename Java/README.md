@@ -36,3 +36,7 @@
 ## Wrapper Classes & Generics
 
 - [Wrapper Classes & Generics Notes](../assets/docs/Wrapper%20Classes%20&%20Generics%20Notes.pdf)
+
+## Collections Framework/API
+
+- [Collection Framework- Overview, interfaces, hierarchy, List, Set, and key classes Notes](../assets/docs/Collection%20Framework-%20Overview,%20interfaces,%20hierarchy,%20List,%20Set,%20and%20key%20classes%20Notes.pdf)
