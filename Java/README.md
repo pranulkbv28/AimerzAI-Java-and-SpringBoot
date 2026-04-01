@@ -41,3 +41,4 @@
 
 - [Collection Framework- Overview, interfaces, hierarchy, List, Set, and key classes Notes](../assets/docs/Collection%20Framework-%20Overview,%20interfaces,%20hierarchy,%20List,%20Set,%20and%20key%20classes%20Notes.pdf)
 - [Queue, iterators, and concurrent modification- Fail-Fast vs. Fail-Safe Notes](../assets/docs/Queue,%20iterators,%20and%20concurrent%20modification-%20Fail-Fast%20vs.%20Fail-Safe%20Notes.pdf)
+- [MAP & Properties Class Notes](../assets/docs/MAP%20&%20Properties%20Class%20Notes.pdf)
