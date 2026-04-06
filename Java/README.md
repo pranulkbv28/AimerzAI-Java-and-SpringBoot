@@ -43,3 +43,4 @@
 - [Queue, iterators, and concurrent modification- Fail-Fast vs. Fail-Safe Notes](../assets/docs/Queue,%20iterators,%20and%20concurrent%20modification-%20Fail-Fast%20vs.%20Fail-Safe%20Notes.pdf)
 - [MAP & Properties Class Notes](../assets/docs/MAP%20&%20Properties%20Class%20Notes.pdf)
 - [Working with Utility Class (Arrays & Collections) Notes](../assets/docs/Working%20with%20Utility%20Class%20(Arrays%20&%20Collections)%20Notes.pdf)
+- [Serialization, Cloning, and Garbage Collection in Java Notes](../assets/docs/Serialization,%20Cloning,%20and%20Garbage%20Collection%20in%20Java%20Notes.pdf)
