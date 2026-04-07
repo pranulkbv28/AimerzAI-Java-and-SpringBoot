@@ -44,3 +44,7 @@
 - [MAP & Properties Class Notes](../assets/docs/MAP%20&%20Properties%20Class%20Notes.pdf)
 - [Working with Utility Class (Arrays & Collections) Notes](../assets/docs/Working%20with%20Utility%20Class%20(Arrays%20&%20Collections)%20Notes.pdf)
 - [Serialization, Cloning, and Garbage Collection in Java Notes](../assets/docs/Serialization,%20Cloning,%20and%20Garbage%20Collection%20in%20Java%20Notes.pdf)
+
+## ENums
+
+- [ENUM Overview, Advantages, Definition Notes](../assets/docs/ENUM%20Overview,%20Advantages,%20Definition%20Notes.pdf)
